@@ -37,13 +37,14 @@ header nav ul li {
     margin-top: 5   px;
     background-image: url("bright-red-brick-wall-texture.jpg");
     background-position: center;
+    display: flex;
 }
 
 main {
     width: 100%;
     display: inline-block;
     margin-left: 25px;
-    background-color: rgb(211, 35, 35);
+    background-color: rgb(228, 208, 208)
 }
 
 .float-left {
@@ -59,3 +60,10 @@ main {
 .information img {
     max-height: 400px;
 }
+
+h2 {
+    font-size: 60px;
+    padding: 70px;
+    color: rgb(211, 35, 35);
+}
+
