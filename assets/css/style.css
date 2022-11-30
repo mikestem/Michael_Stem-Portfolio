@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+header {
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(211, 35, 35);
+    color: white;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 45px;
+}
+
+header nav {
+    padding-top: 0px;
+    margin-right: 200px;
+    float: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.hero {
+    height: 400px;
+    width: 100%;
+    margin-top: 5   px;
+    background-image: url("bright-red-brick-wall-texture.jpg");
+    background-position: center;
+}
