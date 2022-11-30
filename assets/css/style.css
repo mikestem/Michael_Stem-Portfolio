@@ -9,22 +9,21 @@ body {
 }
 header {
     padding: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: rgb(211, 35, 35);
     color: white;
 }
 
 header h1 {
     display: inline-block;
-    font-size: 45px;
+    font-size: 60px;
 }
 
 header nav {
     padding-top: 0px;
-    margin-right: 200px;
+    margin-right: 100px;
     float: right;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 header nav ul li {
@@ -38,4 +37,25 @@ header nav ul li {
     margin-top: 5   px;
     background-image: url("bright-red-brick-wall-texture.jpg");
     background-position: center;
+}
+
+main {
+    width: 100%;
+    display: inline-block;
+    margin-left: 25px;
+    background-color: rgb(211, 35, 35);
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.information {
+    height: 200px;
+}
+
+.information img {
+    max-height: 400px;
 }
