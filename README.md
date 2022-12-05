@@ -40,3 +40,8 @@ A new repository was created and cloned onto my local computer.
 Use the navigation bar at the top right of the page to jump to the different sections in the portfolio.
 
 # Links
+```
+Visit the completed website at: https://mikestem.github.io/Michael_Stem-Portfolio/
+
+Visit the Github repository at: https://github.com/mikestem/Michael_Stem-Portfolio
+```
